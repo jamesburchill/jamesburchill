@@ -4,6 +4,5 @@
 - I'm a bestselling creator of books, courses and other digital products
 - I was born in England, lived in Africa and Australia, and now call Canada home
 - [JamesBurchill.com](https://JamesBurchill.com) is my main site with info and a contact form if you want to get in touch
-- [The Vault](https://jamesburchill.com/vault/) is my personal reference library of ideas, insights, and tools for working smarter, not harder.
 
 #StayFrosty!
