@@ -1,8 +1,15 @@
-# Hi, I’m James 👋
+# James Burchill
 
-- I've been designing and building systems my whole life
-- I'm a bestselling creator of books, courses and other digital products
-- I was born in England, lived in Africa and Australia, and now call Canada home
-- [JamesBurchill.com](https://JamesBurchill.com) is my main site with more info about me
+**Systems architect and software developer**
 
-#StayFrosty!
+I design and build long-lived systems with clear boundaries, explicit constraints, and predictable failure modes. My work focuses on automation, operational clarity, and reducing system drift over time.
+
+Author of multiple bestselling books and courses on technology and systems thinking.
+
+**Primary interests:**
+- system design and integrity
+- automation and control surfaces
+- pragmatic use of AI
+- infrastructure that can be understood, audited, and recovered
+
+More context: https://jamesburchill.com
