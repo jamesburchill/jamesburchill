@@ -1,15 +1,17 @@
 # James Burchill
 
-## Systems architect and software developer
+## Systems Architect | Drift Happens
 
-I design and build long-lived systems with clear boundaries, explicit constraints, and predictable failure modes. My work focuses on automation, operational clarity, and reducing system drift over time.
+I design business and software systems with a focus on reducing drift, preserving integrity, and operating reliably under real-world constraints.
 
-Author of multiple bestselling books and courses on technology and systems thinking.
+My work sits upstream of implementation -- clarifying boundaries, shaping structure, and ensuring decisions hold up over time.
 
-### Primary interests:
-- system design and integrity
+Author of multiple bestselling books and courses on technology, systems thinking, and practical application.
+
+### Focus areas:
+- system design and structural integrity
 - automation and control surfaces
-- pragmatic use of AI
-- infrastructure that can be understood, audited, and recovered
+- pragmatic, governed use of AI
+- infrastructure that is observable, auditable, and recoverable
 
-**More context: https://jamesburchill.com**
+More: https://jamesburchill.com
