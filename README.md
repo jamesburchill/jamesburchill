@@ -2,9 +2,9 @@
 
 ## Systems Architect | Drift Happens
 
-I design business and software systems with a focus on reducing drift, preserving integrity, and operating reliably under real-world constraints.
+Most systems do not fail suddenly. They drift, quietly, until the outcome is no longer what was intended.
 
-My work sits upstream of implementation -- clarifying boundaries, shaping structure, and ensuring decisions hold up over time.
+I work upstream of implementation to prevent that. I design business and software systems that hold their shape over time -- through clear boundaries, deliberate structure, and decisions that remain valid under real-world pressure.
 
 Author of multiple bestselling books and courses on technology, systems thinking, and practical application.
 
