@@ -1,17 +1,21 @@
 # James Burchill
 
-## Systems Architect | Drift Happens
+## Systems Architect | Because Drift Happens
 
-Most systems do not fail suddenly. They drift, quietly, until the outcome is no longer what was intended.
+Most systems do not fail suddenly. They drift quietly until the outcome is no longer what was intended.
 
-I work upstream of implementation to prevent that. I design business and software systems that hold their shape over time -- through clear boundaries, deliberate structure, and decisions that remain valid under real-world pressure.
+I work upstream of implementation to detect, constrain, and reduce that drift before it becomes operational failure.
 
-Author of multiple bestselling books and courses on technology, systems thinking, and practical application.
+I design operational and software systems that remain coherent under real-world conditions – through clear boundaries, deliberate structure, observable behaviour, and decisions that continue to hold under pressure.
 
-### Focus areas:
-- system design and structural integrity
-- automation and control surfaces
-- pragmatic, governed use of AI
-- infrastructure that is observable, auditable, and recoverable
+Over the past three decades, I’ve built systems, led technical organizations, and authored bestselling books and courses focused on technology, systems thinking, and practical implementation.
 
-More: https://jamesburchill.com
+**Focus Areas**
+
+* system integrity and structural coherence
+* automation and control surfaces
+* governed, pragmatic use of AI
+* observable and recoverable infrastructure
+* drift-resistant operational design
+
+More: [jamesburchill.com](url)
