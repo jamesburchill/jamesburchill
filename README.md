@@ -1,6 +1,6 @@
 # James Burchill
 
-## Systems Architect | Because Drift Happens
+## Systems Architect • Because Drift Happens
 
 Most systems do not fail suddenly. They drift quietly until the outcome is no longer what was intended.
 
