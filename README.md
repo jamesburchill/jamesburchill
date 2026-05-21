@@ -18,4 +18,4 @@ Over the past three decades, I’ve built systems, led technical organizations, 
 * observable and recoverable infrastructure
 * drift-resistant operational design
 
-More: [jamesburchill.com](url)
+More: [JamesBurchill.com](url) / [BecauseDriftHappens.com](url)
