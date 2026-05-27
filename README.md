@@ -1,21 +1,26 @@
 # James Burchill
 
-## Systems Architect • Because Drift Happens
+## Governing Intelligent Systems • Because Drift Happens™
 
-Most systems do not fail suddenly. They drift quietly until the outcome is no longer what was intended.
+Most systems do not fail catastrophically. They drift gradually until behaviour, outcomes, and intent no longer align.
 
-I work upstream of implementation to detect, constrain, and reduce that drift before it becomes operational failure.
+I work at the intersection of systems architecture, operational intelligence, and agentic governance -- designing software and operational systems that remain coherent under real-world pressure, changing conditions, and autonomous execution.
 
-I design operational and software systems that remain coherent under real-world conditions – through clear boundaries, deliberate structure, observable behaviour, and decisions that continue to hold under pressure.
+My focus is not simply automation. It is governed automation.
 
-Over the past three decades, I’ve built systems, led technical organizations, and authored bestselling books and courses focused on technology, systems thinking, and practical implementation.
+That includes establishing clear boundaries, observable behaviour, recoverable state, operational feedback loops, and control surfaces that allow intelligent systems -- including AI agents and multi-agent federations -- to remain aligned with human intent over time.
 
-**Focus Areas**
+Over the past three decades, I’ve built systems, led technical organisations, and authored bestselling books and courses focused on technology, systems thinking, and pragmatic implementation.
 
-* system integrity and structural coherence
-* automation and control surfaces
-* governed, pragmatic use of AI
-* observable and recoverable infrastructure
-* drift-resistant operational design
+## Current Areas of Focus
 
-More: [JamesBurchill.com](https://jamesburchill.com) / [BecauseDriftHappens.com](https://becausedrifthappens.com)
+- agentic systems governance
+- operational intelligence and orchestration
+- multi-agent coherence and drift correction
+- observable and recoverable infrastructure
+- automation with bounded autonomy
+- systems integrity under scale and change
+
+More:  
+https://jamesburchill.com  
+https://becausedrifthappens.com
