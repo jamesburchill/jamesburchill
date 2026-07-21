@@ -2,32 +2,29 @@
 
 ## Governing Intelligent Systems • Because Drift Happens™
 
-Most systems do not fail all at once. They drift.
+I am CTO of [Tooljar](https://tooljar.com/) and a systems architect focused on keeping software, AI, and operational systems coherent as they grow.
 
-I build and govern intelligent systems: AI-enabled software, automation, and operational infrastructure designed to stay observable, bounded, recoverable, and aligned as conditions change.
+For more than four decades, I have built software companies, led engineering organizations, and designed enterprise platforms. My current work spans platform architecture, AI governance, semantic systems, operational intelligence, and independent intellectual property.
 
-My work focuses on practical governance for intelligent systems: clear operating boundaries, auditable state, feedback loops, control surfaces, and recovery paths that keep automation useful without letting it become opaque or unaccountable.
+Most systems do not fail catastrophically. They drift gradually until behaviour, outcomes, and intent no longer align.
 
-Over nearly four decades, I have built systems, led technology organizations, and authored books and courses on technology, systems thinking, and pragmatic implementation.
+I build systems that make that drift observable, governable, and recoverable.
 
-## Current Focus
+### Current areas of focus
 
-- agentic systems governance
-- operational intelligence and orchestration
-- multi-agent coherence and drift correction
-- observable and recoverable infrastructure
-- automation with bounded autonomy
-- semantic object design and provenance
-- systems integrity under scale and change
+- Governed intelligent systems
+- Semantic and enterprise architecture
+- Operational intelligence and orchestration
+- Bounded autonomy and recoverable execution
+- Provenance and trust
+- Long-lived software platforms
 
-## Selected Work
+### Selected work
 
-- **SafeAgent** — bounded execution infrastructure for AI agents.
-- **AIFED** — protocol exploration for decentralized discovery, trust, and workload federation between sovereign AI operators.
-- **Verified Provenance** — trust infrastructure for proving who created digital content, when it was made, and whether it changed.
-- **SOSI Framework** — semantic object design for systems where meaning, metadata, and provenance need to survive drift.
+- [Because Drift Happens™](https://becausedrifthappens.com/) — doctrine and practical guidance for drift-aware systems
+- [SafeAgent](https://safeagent.ca/) — governed execution for autonomous systems
+- [Verified Provenance](https://github.com/jamesburchill/verifiedprovenance) — trust and provenance for digital content
+- [AIFED](https://github.com/jamesburchill/aifed) — federation between sovereign AI operators
+- [The Vault](https://vault.jamesburchill.com/) — essays, field notes, and working ideas
 
-## More
-
-- https://jamesburchill.com
-- https://becausedrifthappens.com
+[JamesBurchill.com](https://jamesburchill.com/) · [LinkedIn](https://www.linkedin.com/in/jamesburchill/)
