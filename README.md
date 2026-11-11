@@ -1,8 +1,10 @@
 # James Burchill
 
-**Founder, Driftinel.com | Business Systems Architect | CTO | Bestselling Author**
+**Systems Architect & CTO | Founder, Driftinel.com | Bestselling Author**
 
-I design and build business systems, write, and explore ideas across business and technology.
+I help established founder-led businesses turn complex operational and technology challenges into well-designed systems.
+
+My work connects business judgement, software architecture and practical AI. Through [James Media Group](https://jamesmediagroup.ca/services/), I provide strategic technology consulting and implementation. I also write and explore ideas across business and technology.
 
 I currently serve as CTO at Tooljar and pursue independent projects.
 
