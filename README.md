@@ -1,17 +1,17 @@
 # James Burchill
 
-**Systems Architect & CTO | Founder, Driftinel.com | Bestselling Author**
+**Systems Architect & CTO | Principal, JMG | Founder, Driftinel | Bestselling Author**
 
 **Sharp thinking. Useful solutions.**
 
-I help established founder-led businesses turn complex operational and technology challenges into well-designed systems.
+Unclear technology decisions, repetitive work or problems going unnoticed? I help established, founder-led businesses understand what needs to change and find a practical way forward.
 
-My work connects business judgement, software architecture and practical AI. Through [James Media Group](https://jamesmediagroup.ca/), I provide strategic technology and AI consulting, custom software, automation, integration and remote monitoring. Engagements begin with discovery and are scoped around the business need. I also write and explore ideas across business and technology.
+I’m Principal & Systems Architect at [James Media Group](https://jamesmediagroup.ca/) and CTO at [Tooljar](https://tooljar.com/). Through JMG, my work spans Technology & AI, Automation and Monitoring. We start with the business problem and define a useful outcome; configuration, custom software and integration support the solution where needed.
 
-I currently serve as CTO at Tooljar and pursue independent projects.
+I also build products and write about business, technology and practical judgement.
 
-- [The Vault](https://vault.jamesburchill.com/) — essays, notes, and practical resources.
-- [Driftinel](https://driftinel.com/) — monitoring approved email accounts for slipping commitments, with access currently by invitation.
-- [Because Drift Happens](https://becausedrifthappens.com/) — my thinking on how systems change over time and stay aligned with their purpose.
+- [The Vault](https://vault.jamesburchill.com/) — essays, field notes and practical guides for working through business and technology questions.
+- [Driftinel](https://driftinel.com/) — promises getting buried in email? Spot slipping commitments in approved accounts, see the supporting messages and decide how to follow up. Access is by invitation.
+- [Because Drift Happens](https://becausedrifthappens.com/) — ideas and examples for recognizing when systems move away from their purpose and deciding how to respond.
 
 [Website](https://jamesburchill.com/) · [LinkedIn](https://www.linkedin.com/in/jamesburchill/)
