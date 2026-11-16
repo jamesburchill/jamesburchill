@@ -1,17 +1,29 @@
 # James Burchill
 
-**Systems Architect & CTO | Principal, JMG | Founder, Driftinel | Bestselling Author**
+**Systems Architect · CTO · Bestselling Author & Instructor**
 
-**Sharp thinking. Useful solutions.**
+**Keep track of what matters. Know when it goes off course.**
 
-Unclear technology decisions, repetitive work or problems going unnoticed? I help established, founder-led businesses understand what needs to change and find a practical way forward.
+I build systems that help founder-led businesses recognize drift in commitments, processes, and conditions—with enough notice to understand what’s happening and act.
 
-I’m Principal & Systems Architect at [James Media Group](https://jamesmediagroup.ca/) and CTO at [Tooljar](https://tooljar.com/). Through JMG, my work spans Technology & AI, Automation and Monitoring. We start with the business problem and define a useful outcome; configuration, custom software and integration support the solution where needed.
+I’m Principal & Systems Architect at [James Media Group](https://jamesmediagroup.ca/) and CTO at [Tooljar](https://tooljar.com/). Through JMG, my work spans technology consulting, custom software, AI integration, automation, and implementation.
 
-I also build products and write about business, technology and practical judgement.
+My recurring interest is observation: what should be happening, what has changed, and what deserves attention. That includes signals that stop arriving.
 
-- [The Vault](https://vault.jamesburchill.com/) — essays, field notes and practical guides for working through business and technology questions.
-- [Driftinel](https://driftinel.com/) — promises getting buried in email? Spot slipping commitments in approved accounts, see the supporting messages and decide how to follow up. Access is by invitation.
-- [Because Drift Happens](https://becausedrifthappens.com/) — ideas and examples for recognizing when systems move away from their purpose and deciding how to respond.
+## Products
 
-[Website](https://jamesburchill.com/) · [LinkedIn](https://www.linkedin.com/in/jamesburchill/)
+- [Driftinel](https://driftinel.com/) — Email commitment monitoring, with supporting messages to guide follow-up. Access by invitation.
+- [Telemetry Sentinel](https://telemetrysentinel.com/) — Remote monitoring solutions for environmental conditions, devices, power, and other important signals. Tailored proposals.
+- [BaileyBot](https://baileybot.com/) — An email-first follow-through assistant being developed for deadlines, renewals, and promises. Launch waitlist.
+
+## Writing and teaching
+
+My books include three Amazon bestsellers, and my online courses have reached more than 35,000 learners worldwide.
+
+- [Because Drift Happens](https://becausedrifthappens.com/) — My public working framework for understanding change and keeping systems aligned with their purpose.
+- [The Vault](https://vault.jamesburchill.com/) — Essays, field notes, and practical guides across business and technology.
+- [JamesBurchill.com](https://jamesburchill.com/) — Books, writing, and current projects.
+
+**What would you like to know sooner?**
+
+[Work with JMG](https://jamesmediagroup.ca/) · [LinkedIn](https://www.linkedin.com/in/jamesburchill/)
